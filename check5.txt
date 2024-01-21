@@ -3,3 +3,6 @@ HEre we are in a new branch trying to understand what is happening inside.
 
 
 after merging the branch we are here again trying to distinguish
+
+
+Adding a new line to new branch.
